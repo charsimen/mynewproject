@@ -10,6 +10,7 @@
                 }
             }
         }
+        //hello
    private SortingFilteringCollection<IUpdateable> _updateables =
             new SortingFilteringCollection<IUpdateable>(
                 u => u.Enabled,
